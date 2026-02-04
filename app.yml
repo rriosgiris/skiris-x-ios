@@ -1,7 +1,7 @@
 settings:
-  APP_DISPLAY_NAME: Element X
-  PRODUCTION_APP_NAME: Element
-  APP_GROUP_IDENTIFIER: group.io.element
-  BASE_BUNDLE_IDENTIFIER: io.element.elementx
+  APP_DISPLAY_NAME: Skiris       # Le nom complet sous l'icône
+  PRODUCTION_APP_NAME: Skiris    # Le nom utilisé pour la prod
+  APP_GROUP_IDENTIFIER: group.io.skiris
+  BASE_BUNDLE_IDENTIFIER: io.skiris.messenger # Ou ton propre ID
   ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: "colors/accent-color"
-  DEVELOPMENT_TEAM: 7J4U792NQT
+  # DEVELOPMENT_TEAM: 7J4U792NQT
